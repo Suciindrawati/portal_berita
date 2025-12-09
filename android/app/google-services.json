@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345822162548",
+    "project_id": "portalb-a3010",
+    "storage_bucket": "portalb-a3010.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345822162548:android:5932b887f67c8e6645ab21",
+        "android_client_info": {
+          "package_name": "com.example.portal_berita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpSTjdzwIDNY9rP-f2elUtrlB74t3ST4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

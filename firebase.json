@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "portalb-a3010",
+          "appId": "1:345822162548:android:5932b887f67c8e6645ab21",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "portalb-a3010",
+          "configurations": {
+            "android": "1:345822162548:android:5932b887f67c8e6645ab21",
+            "web": "1:345822162548:web:4cce3c3e72b0360345ab21"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
